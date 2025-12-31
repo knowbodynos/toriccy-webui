@@ -7,4 +7,4 @@
 
 ## Maintenance
 
-- Periodically run `sudo apt autoremove --purge` to clear space from automatic updates.
+- Periodically run `sudo apt clean && sudo apt autoremove --purge` to clear space from automatic updates.
